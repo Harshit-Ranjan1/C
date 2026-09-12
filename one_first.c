@@ -74,4 +74,25 @@
    int *j=&x;
    printf("%d",*j);
 }*/
-//
+//Write a C program that accepts three integers and finds the maximum of three.  8
+/*int main(){
+   int a,b,c;
+   printf("Enter the first element:");
+   scanf("%d",&a);
+   printf("Enter the second element:");
+   scanf("%d",&b);
+   printf("Enter the third element:");
+   scanf("%d",&c);
+   if(a>b && a>c){
+      printf("maximum is %d",a);
+   }
+   if(a<b){
+      if(b<c){
+         printf("maximum is %d",c);
+      }
+      else{
+         printf("maximum is %d",b);
+      }
+   }
+   }*/
+  
