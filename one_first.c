@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 //take input and add     1
 /*int main(){
    int a,b;
@@ -94,5 +95,28 @@
          printf("maximum is %d",b);
       }
    }
-   }*/
-  
+      return 0;
+}*/
+//Write a C program to calculate a bike’s average consumption from the given total distance (integer value) travelled (in km) and spent fuel (in litters, float number – 2 decimal points). 9
+/*int main(){
+   int d;
+   float f,m;
+   printf("Enter the distance traveled:");
+   scanf("%d",&d);
+   printf("Enter the fuel spent:");
+   scanf("%f",&f);
+   m=d/f;
+   printf("The average milage is :%.2f",m);
+   return 0;
+}*/
+//Write a C program to calculate the distance between two points. 11
+/*int main(){
+   int x1=25;
+   int y1=15;
+   int x2=35;
+   int y2=10;
+   float a;
+   a=(x2-x1)*(x2-x1)+(y2-y1)*(y2-y1);
+   printf("The distance is %.3f",sqrt(a));
+}*/
+//Write a C program to read an amount (integer value) and break the amount into the smallest possible number of bank notes. 12
