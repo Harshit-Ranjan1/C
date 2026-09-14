@@ -128,4 +128,6 @@ Weight - Item1: 15
 No. of item1: 5
 Weight - Item2: 25
 No. of item2: 4
-Expected Output:*/
+Expected Output:
+This resource offers a total of 750 C Basic Declarations and Expressions problems for practice. It includes 150 main exercises, each accompanied by solutions, detailed explanations, and four related problems.
+*/
