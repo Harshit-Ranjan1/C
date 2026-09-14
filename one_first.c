@@ -120,3 +120,12 @@
    printf("The distance is %.3f",sqrt(a));
 }*/
 //Write a C program to read an amount (integer value) and break the amount into the smallest possible number of bank notes. 12
+/*rite a C program to print a block F using the hash (#), where the F has a height of six characters and width of five and four characters. And also print a very large 'C'.
+Expected Output:
+Write a C program that accepts two item's weight and number of purchases (floating point values) and calculates their average value.
+Test Data :
+Weight - Item1: 15
+No. of item1: 5
+Weight - Item2: 25
+No. of item2: 4
+Expected Output:*/
