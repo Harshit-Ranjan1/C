@@ -130,4 +130,10 @@ Weight - Item2: 25
 No. of item2: 4
 Expected Output:
 This resource offers a total of 750 C Basic Declarations and Expressions problems for practice. It includes 150 main exercises, each accompanied by solutions, detailed explanations, and four related problems.
-*/
+Write a C program to convert a given integer (in days) to years, months and days, assuming that all months have 30 days and all years have 365 days.
+Test Data :
+Input no. of days: 2535
+Expected Output:
+6 Year(s)
+11 Month(s)
+15 Day(s)*/
