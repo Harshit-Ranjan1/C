@@ -136,4 +136,10 @@ Input no. of days: 2535
 Expected Output:
 6 Year(s)
 11 Month(s)
-15 Day(s)*/
+15 Day(s)
+travelled (in km) and spent fuel (in litters, float number – 2 decimal points).
+Test Data :
+Input total distance in km: 350
+Input total fuel spent in liters: 5
+Expected Output:
+Average consumption (km/lt) 70.000*\
