@@ -142,4 +142,9 @@ Test Data :
 Input total distance in km: 350
 Input total fuel spent in liters: 5
 Expected Output:
-Average consumption (km/lt) 70.000*\
+Average consumption (km/lt) 70.000
+Global web icon
+Wikipedia
+https://en.wikipedia.org › wiki
+S - Wikipedia
+S (minuscule: s) is the nineteenth letter of the Latin alphabet, used in the English alphabet, the alphabets of other western European languages and other Latin alphabets worldwide. Its name in English is ess (pronounced /ˈɛs/ ), plural esses.*\
