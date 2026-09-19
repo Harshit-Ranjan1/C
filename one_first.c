@@ -148,3 +148,11 @@ Wikipedia
 https://en.wikipedia.org › wiki
 S - Wikipedia
 S (minuscule: s) is the nineteenth letter of the Latin alphabet, used in the English alphabet, the alphabets of other western European languages and other Latin alphabets worldwide. Its name in English is ess (pronounced /ˈɛs/ ), plural esses.*\
+/*Write a C program to print numbers from 1 to 10 and 10 to 1 using a do-while loop.
+
+Click me to see the solution
+
+
+2. Sum of Positive Integers Until 0
+
+Write a C program that prompts the user to input a series of integers until the user stops by entering 0 using a do-while loop. Calculate and print the sum of all positive integers entered.*\
