@@ -157,4 +157,6 @@ Click me to see the solution
 
 Write a C program that prompts the user to input a series of integers until the user stops by entering 0 using a do-while loop. Calculate and print the sum of all positive integers entered.
 'Jhooth ki goonj deflated': Patra says ABVP’s DUSU win exposes 'hollowness' of Rahul’s narrative
-BJP MP Sambit Patra hailed the Akhil Bharatiya Vidyarthi Parishad (ABVP)'s performance in t*/
+BJP MP Sambit Patra hailed the Akhil Bharatiya Vidyarthi Parishad (ABVP)'s performance in t
+A combinational circuit is a digital logic circuit whose output depends only on the present combination of inputs at any given moment. It has no memory and no feedback, meaning the output is purely a function of the current inputs. Combinational circuits are built from logic gates (AND, OR, NOT, NAND, NOR, XOR) and are used in arithmetic operations (adders, subtractors, multipliers), data transmission (multiplexers, demultiplexers, encoders, decoders), and code conversion (binary to BCD, binary to Gray). The design procedure involves: problem statement, determining inputs/outputs, creating a truth table, deriving Boolean expressions,
+*\
