@@ -162,4 +162,19 @@ A combinational circuit is a digital logic circuit whose output depends only on 
 Neem Karoli Baba is no longer there in his physical form, but even today his words are revered. He was lovingly known as Maharaj ji. An Indian spiritual master, his  teachings on life continue to inspire millions across the world cutting across all age groups. Some believe that he was an reincarnation of Lord Hanuman, Indian d
 Quote of the day: Chanakya on decision-making — 'Before you start some work, always ask yourself three questions'
 A Boeing 727 charged through dense fog, then it crashed into a passenger jet on the runway
-I’ve been bullied over my name all my life – but I refuse to change it*\
+I’ve been bullied over my name all my life – but I refuse to change it
+Fixed Rate of interest (on monthly Reducing basis)
+
+ROI Starting @ 9.99% p.a. | 0.83% p.m.*
+
+T&C apply
+
+Tenure: Min 9 months, Max 60 months
+
+Minimum EMI: ₹2124/- per month
+
+Max APR: 35%*
+
+Sample Calculation:
+
+On a term personal loan for ₹1,00,000 at rate o*\
