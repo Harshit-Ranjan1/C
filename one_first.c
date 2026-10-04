@@ -177,4 +177,16 @@ Max APR: 35%*
 
 Sample Calculation:
 
-On a term personal loan for ₹1,00,000 at rate o*\
+On a term personal loan for ₹1,00,000 at rate o
+Option 2: Screen Share with Audio
+
+Join a voice call, click Share Your Screen.
+
+When the screen share starts, click the "Go Live" options and make sure audio is enabled.
+
+Play music on your computer — your friend hears it through the stream.
+
+❓ Quick Question
+Which music app do you actually use (YouTube Music, Apple Music, Amazon, SoundCloud, local files, something else)? Tell me and I'll give you the exact steps for that one — no guessing.
+
+*\
